@@ -1,0 +1,50 @@
+<ItemCatalog>
+    <Item Id="ABC123">
+        <price>550</price>
+    </Item>
+    <Item Id="CR2032">
+        <price>240</price>
+    </Item>
+    <Item Id="CT1928">
+        <price>910</price>
+    </Item>
+    <Item Id="E241I">
+        <price>10400</price>
+    </Item>
+    <Item Id="JBL3100">
+        <price>180</price>
+    </Item>
+    <Item Id="MM35P">
+        <price>1950</price>
+    </Item>
+    <Item Id="PL132-C">
+        <price>440</price>
+    </Item>
+    <Item Id="PU238">
+        <price>2200</price>
+    </Item>
+    <Item Id="RL123A">
+        <price>360</price>
+    </Item>
+    <Item Id="RTF110">
+        <price>715</price>
+    </Item>
+    <Item Id="RX100-3">
+        <price>642</price>
+    </Item>
+    <Item Id="SN-241-L">
+        <price>620</price>
+    </Item>
+    <Item Id="SR71-D">
+        <price>1600</price>
+    </Item>
+    <Item Id="XLK200B">
+        <price>820</price>
+    </Item>
+    <Item Id="XTP202">
+        <price>345</price>
+    </Item>
+    <Item Id="ZTF109">
+        <price>1100</price>
+    </Item>
+</ItemCatalog>

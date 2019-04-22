@@ -1,0 +1,74 @@
+<FacilityNetwork>
+    <Facility Location="Seattle, WA">
+        <Rate>8</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="San Francisco, CA">
+        <Rate>12</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Los Angeles, CA">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Phoenix, AZ">
+        <Rate>8</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Denver, CO">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Santa Fe, NM">
+        <Rate>8</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Fargo, ND">
+        <Rate>8</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Austin, TX">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="St. Louis, MO">
+        <Rate>12</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Chicago, IL">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="New Orleans, LA">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Nashville, TN">
+        <Rate>8</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Detroit, MI">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Boston, MA">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="New York City, NY">
+        <Rate>14</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Norfolk, VA">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Atlanta, GA">
+        <Rate>10</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+    <Facility Location="Miami, FL">
+        <Rate>12</Rate>
+        <CostPerDay>300</CostPerDay>
+    </Facility>
+</FacilityNetwork>
